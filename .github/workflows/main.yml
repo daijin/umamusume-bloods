@@ -9,6 +9,10 @@ on:
   #   branches: [ master ]
   # pull_request:
   #   branches: [ master ]
+  push:
+    paths:
+      - "**.dot"
+
   pull_request:
     paths:
       - "**.dot"
