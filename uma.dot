@@ -1,7 +1,7 @@
 digraph hoge {
     graph [
         rankdir = LR,
-        bgcolor = gray,
+        bgcolor = antiquewhite,
         dpi = "64";
     ]
     node [
